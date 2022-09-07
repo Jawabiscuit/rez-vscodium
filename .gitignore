@@ -1,0 +1,12 @@
+*.pyc
+*~
+*#
+build
+env.ps1
+start.ps1
+*.org
+*.rxt
+*.exe
+*.msi
+*.zip
+*.7z
